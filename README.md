@@ -19,7 +19,7 @@
 #### _**Step 1:**_ Install Headless **Raspbian OS** into _Raspberry Pi_
  
 - First, we need to download and install the **"Raspberry Pi".**
-_Copy this link (https://www.raspberrypi.com/software/)_ or [Click Here to install!](https://www.raspberrypi.com/software/)
+_Copy this link https://www.raspberrypi.com/software/_ or [Click Here to install!](https://www.raspberrypi.com/software/)
 
  
  ![400494685_1520571618518673_7952891577700257049_n](https://github.com/CaseinBrt/Documentation/assets/145450481/fb4c181b-9ec7-4383-b793-530b62c4e77c)
